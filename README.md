@@ -1,15 +1,14 @@
 # Self-driving car with RL stable baseline3
-Most of the project develop from 
->https://github.com/GerardMaggiolino/Gym-Medium-Post 
+>Most of the project develop from https://github.com/GerardMaggiolino/Gym-Medium-Post 
 Please check it out!
+
 This project focus on training self-driving car env by implementing PPO algorithm from stable baseline3
 
 ## Installation
 
 Clone the project 
-
 ```bash
-git clone 
+git clone https://github.com/SornsiriP/Self-Driving-car
 ```
 Then run main.py
 
