@@ -1,6 +1,6 @@
 # Self-driving car with RL stable baseline3
 >Most of the project develop from https://github.com/GerardMaggiolino/Gym-Medium-Post 
-Please check it out!
+Please check it out!!
 
 This project focus on training self-driving car env by implementing PPO algorithm from stable baseline3
 <img src="https://github.com/SornsiriP/Self-Driving-car/blob/main/Example/Example.gif" width="80%">
